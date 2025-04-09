@@ -1,0 +1,9 @@
+{
+    "adUnitIDs": {
+        "banner": "a-app-pub-3940256099942544/2435281174",
+        "interstitial": "a-app-pub-3940256099942544/4411468910"
+    },
+    "interstitialSettings": {
+        "clickThreshold": 7
+    }
+}
