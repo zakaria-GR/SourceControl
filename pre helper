@@ -4,6 +4,6 @@
         "interstitial": "ca-app-pub-8317165529769416/4676727121"
     },
     "interstitialSettings": {
-        "clickThreshold": 7
+        "clickThreshold": 4
     }
 }
