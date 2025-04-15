@@ -2,6 +2,11 @@
 {
     "id": "1",
     "title": "Mountain Landscape at Sunset",
+    "image_url": "https://i.pinimg.com/736x/a0/20/08/a0200827c348509686987fda6355aaba.jpg",
+    "category": "Nature"
+  },{
+    "id": "1",
+    "title": "Mountain Landscape at Sunset",
     "image_url": "https://i.pinimg.com/736x/8b/52/b4/8b52b4870182f2883e8f94b231680fd6.jpg",
     "category": "Nature"
   },{
