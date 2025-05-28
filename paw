@@ -1,0 +1,14 @@
+{
+    "pages": [
+        {
+            "id": "1",
+            "imageUrl": "https://example.com/image1.jpg",
+            "isLocked": false
+        },
+        {
+            "id": "2",
+            "imageUrl": "https://example.com/image2.jpg",
+            "isLocked": true
+        }
+    ]
+}
