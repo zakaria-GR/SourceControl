@@ -1,33 +1,9 @@
 {
-    "pages": [
-        {
-            "id": "1",
-            "imageUrl": "https://i.pinimg.com/736x/3b/3f/04/3b3f0443b06b876a88f42e614e6b62b4.jpg",
-            "isLocked": false
-        },
-        {
-            "id": "2",
-            "imageUrl": "https://i.pinimg.com/736x/3b/3f/04/3b3f0443b06b876a88f42e614e6b62b4.jpg",
-            "isLocked": true
-        },
-        {
-            "id": "2",
-            "imageUrl": "",
-            "isLocked": true
-        },{
-            "id": "1",
-            "imageUrl": "https://i.pinimg.com/736x/3b/3f/04/3b3f0443b06b876a88f42e614e6b62b4.jpg",
-            "isLocked": false
-        },
-        {
-            "id": "2",
-            "imageUrl": "",
-            "isLocked": true
-        },
-        {
-            "id": "5",
-            "imageUrl": "https://i.pinimg.com/736x/3b/3f/04/3b3f0443b06b876a88f42e614e6b62b4.jpg",
-            "isLocked": true
-        }
-    ]
+    "adUnitIDs": {
+        "banner": "ca-app-pub-3940256099942544/2435281174",
+        "interstitial": "ca-app-pub-3940256099942544/4411468910"
+    },
+    "interstitialSettings": {
+        "clickThreshold": 2
+    }
 }
