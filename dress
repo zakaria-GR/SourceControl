@@ -1,7 +1,7 @@
 {
     "adUnitIDs": {
-        "banner": "ca-app-pub-8317165529769416/7643791882",
-        "interstitial": "ca-app-pub-8317165529769416/2964781473"
+        "banner": "",
+        "interstitial": ""
     },
     "interstitialSettings": {
         "clickThreshold": 6
