@@ -1,0 +1,9 @@
+{
+    "adUnitIDs": {
+        "banner": "",
+        "interstitial": ""
+    },
+    "interstitialSettings": {
+        "clickThreshold": 3
+    }
+}
