@@ -1,156 +1,170 @@
-[  
-       {          
+[
+  {
     "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/3d/7b/c8/3d7bc898d2785cf8e005fe7949917769.jpg",
-    "category": "asdfdss"
-  },
-       {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/3d/7b/c8/3d7bc898d2785cf8e005fe7949917769.jpg",
-    "category": "asdfdss"
-  },
-       {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/3d/7b/c8/3d7bc898d2785cf8e005fe7949917769.jpg",
-    "category": "asdfdss"
-  },
-       {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/3d/7b/c8/3d7bc898d2785cf8e005fe7949917769.jpg",
-    "category": "Cool"
-  },
-      {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg",
-    "category": "asdfdss"
-  },
-      {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/a6/04/45/a604457601a377f4000124ca1fa7feef.jpg",
-    "category": "asdfdss"
-  },
-      {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/a6/04/45/a604457601a377f4000124ca1fa7feef.jpg",
-    "category": "ass"
-  },
-     {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/a6/04/45/a604457601a377f4000124ca1fa7feef.jpg",
-    "category": "Ai"
-  },
-     {          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/67/07/41/67074178f738d3bdcae0071b626e15e0.jpg",
-    "category": "Ai"
-  },
-     {
-          
-          
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/f9/5d/b5/f95db5aeb5ebe96fbc62685d774c4ea7.jpg",
-    "category": "Ai"
-  },
-    {
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/f9/5d/b5/f95db5aeb5ebe96fbc62685d774c4ea7.jpg",
+    "title": "Mountain Landscape",
+    "image_url": "https://i.pinimg.com/1200x/2f/f8/94/2ff89473f2a9f5d214da0fbd3b5da1a5.jpg",
     "category": "Nature"
   },
-{
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/66/21/cf/6621cfef774a021ebad4d2ef867b434d.jpg",
-    "category": "Nature"
-  },{
-    "id": "1",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/1a/7b/6c/1a7b6ca8b821eb311a3ef291d1245737.jpg",
-    "category": "Nature"
-  },{
+  {
     "id": "2",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/50/a6/b5/50a6b5a31ca35c95a0c8502f770f482c.jpg",
+    "title": "Forest Path",
+    "image_url": "https://i.pinimg.com/736x/78/af/4e/78af4e0bfe102b2b8b3c07e2ec373287.jpg",
     "category": "Nature"
-  },{
+  },
+  {
     "id": "3",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/8b/52/b4/8b52b4870182f2883e8f94b231680fd6.jpg",
+    "title": "Ocean Waves",
+    "image_url": "https://i.pinimg.com/1200x/7e/7a/28/7e7a28ff9f162c9d6672705fc1225df0.jpg",
     "category": "Nature"
-  },{
+  },
+  {
     "id": "4",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/8b/52/b4/8b52b4870182f2883e8f94b231680fd6.jpg",
+    "title": "Sunset Valley",
+    "image_url": "https://i.pinimg.com/736x/c1/b8/84/c1b8846e802048cf952bae405a557a1a.jpg",
     "category": "Nature"
-  },{
+  },
+  {
     "id": "5",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/22/4a/01/224a01451c1036a176947c740be85dc2.jpg",
+    "title": "Autumn Trees",
+    "image_url": "https://i.pinimg.com/1200x/90/ed/25/90ed25094f66eff957686034778bfb64.jpg",
     "category": "Nature"
-  },{
+  },
+  {
     "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/22/4a/01/224a01451c1036a176947c740be85dc2.jpg",
+    "title": "Mountain Peak",
+    "image_url": "https://i.pinimg.com/1200x/69/81/c2/6981c251f5c5b623f800b011553762e3.jpg",
     "category": "Nature"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/22/4a/01/224a01451c1036a176947c740be85dc2.jpg",
+  },
+  {
+    "id": "7",
+    "title": "River Stream",
+    "image_url": "https://i.pinimg.com/736x/99/d1/4d/99d14d7a4c5affc39c859111b44c4e86.jpg",
     "category": "Nature"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/22/4a/01/224a01451c1036a176947c740be85dc2.jpg",
+  },
+  {
+    "id": "8",
+    "title": "Forest Canopy",
+    "image_url": "https://i.pinimg.com/736x/9a/81/47/9a8147e8cfe62ef4784107eb78d52c00.jpg",
     "category": "Nature"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/22/4a/01/224a01451c1036a176947c740be85dc2.jpg",
-    "category": "special"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/22/4a/01/224a01451c1036a176947c740be85dc2.jpg",
+  },
+  {
+    "id": "9",
+    "title": "Mountain Lake",
+    "image_url": "https://i.pinimg.com/1200x/dd/0e/6f/dd0e6fe662b4b680e7de63d8fe5422b8.jpg",
     "category": "Nature"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/be/38/fb/be38fb1ffcf193e4b54864630ef2ecb3.jpg",
-    "category": "special"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/be/38/fb/be38fb1ffcf193e4b54864630ef2ecb3.jpg",
-    "category": "special"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/be/38/fb/be38fb1ffcf193e4b54864630ef2ecb3.jpg",
-    "category": "special"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/ad/57/67/ad5767b0499ad467f42dca96e579ea76.jpg",
-    "category": "special"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/55/9c/56/559c5683f40a980a4e3f59506da2c232.jpg",
-    "category": "special"
-  },{
-    "id": "6",
-    "title": "Mountain Landscape at Sunset",
-    "image_url": "https://i.pinimg.com/736x/cc/e8/f0/cce8f06ad9cfb71afcb1bbf9a2d18037.jpg",
-    "category": "special"
+  },
+  {
+    "id": "10",
+    "title": "Desert Dunes",
+    "image_url": "https://i.pinimg.com/736x/6f/d6/d5/6fd6d58b80852045775935acccb646c3.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "11",
+    "title": "Waterfall",
+    "image_url": "https://i.pinimg.com/736x/05/da/85/05da85aa3c50ed6ce4c8967753c25d0f.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "12",
+    "title": "Meadow Flowers",
+    "image_url": "https://i.pinimg.com/736x/12/9b/67/129b67b6ea4a92906a191477f94922eb.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "13",
+    "title": "Snowy Mountains",
+    "image_url": "https://i.pinimg.com/1200x/2d/33/24/2d332406197d20278a6add33a10c7507.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "14",
+    "title": "Tropical Beach",
+    "image_url": "https://i.pinimg.com/1200x/8d/b4/27/8db427ce05d8c76d706e588f0768c4a4.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "15",
+    "title": "Forest Clearing",
+    "image_url": "https://i.pinimg.com/736x/c5/36/04/c53604cdbaa56fc557e85b4a8a077a41.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "16",
+    "title": "Mountain Range",
+    "image_url": "https://i.pinimg.com/1200x/72/9f/e7/729fe7ee0e23b2893bf639153bf8e887.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "17",
+    "title": "Lakeside View",
+    "image_url": "https://i.pinimg.com/736x/55/dc/db/55dcdb00574dd77c324182e13936d723.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "18",
+    "title": "Forest Trail",
+    "image_url": "https://i.pinimg.com/736x/de/c4/99/dec4999dfec38e6fb1448bddccc14f3b.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "19",
+    "title": "Mountain Vista",
+    "image_url": "https://i.pinimg.com/1200x/d0/0e/13/d00e13531763a7ec9c49796b4a0e9c43.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "20",
+    "title": "Spring Meadow",
+    "image_url": "https://i.pinimg.com/736x/f4/32/1b/f4321bfd259afa498b8f964112a3219e.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "21",
+    "title": "Coastal Cliffs",
+    "image_url": "https://i.pinimg.com/1200x/97/32/9c/97329c659c435551ec3757c9e2fe11f1.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "22",
+    "title": "Mountain Forest",
+    "image_url": "https://i.pinimg.com/736x/c9/a9/97/c9a997abbdce3406735dde6dbb60bb3a.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "23",
+    "title": "Valley View",
+    "image_url": "https://i.pinimg.com/736x/93/9c/f0/939cf09a80708b7141db97e66681373c.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "24",
+    "title": "Forest Stream",
+    "image_url": "https://i.pinimg.com/736x/ff/6a/00/ff6a007f107c3cbbc740ebf4f08b1f3d.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "25",
+    "title": "Mountain Lake Reflection",
+    "image_url": "https://i.pinimg.com/1200x/bc/7e/74/bc7e7437ea4d01c7f0e0a38b4b30d1b3.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "26",
+    "title": "Forest Edge",
+    "image_url": "https://i.pinimg.com/736x/92/a6/27/92a6274c75934b6038833ccf9b9aa3c9.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "27",
+    "title": "Mountain Sunrise",
+    "image_url": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg",
+    "category": "Nature"
+  },
+  {
+    "id": "28",
+    "title": "Forest Path",
+    "image_url": "https://i.pinimg.com/736x/e7/96/dd/e796ddd52fcafaacef1d2e959ec2977c.jpg",
+    "category": "Nature"
   }
-] 
+]
