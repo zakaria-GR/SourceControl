@@ -1,5 +1,4 @@
 [
-  [
   {
     "id": "1",
     "title": "Aesthetic Design 1",
@@ -131,8 +130,7 @@
     "title": "Aesthetic Design 22",
     "image_url": "https://i.pinimg.com/736x/b8/03/4c/b8034ca4dc53fa49b9262a7090e76d57.jpg",
     "category": "Aesthetic"
-  }
-]
+  },
   {
     "id": "1",
     "title": "Mountain Landscape",
