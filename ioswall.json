@@ -132,261 +132,375 @@
     "category": "Aesthetic"
   },
   {
-    "id": "1",
+    "id": "23",
     "title": "Mountain Landscape",
     "image_url": "https://i.pinimg.com/1200x/2f/f8/94/2ff89473f2a9f5d214da0fbd3b5da1a5.jpg",
     "category": "Nature"
   },
   {
-    "id": "2",
+    "id": "24",
     "title": "Forest Path",
     "image_url": "https://i.pinimg.com/736x/78/af/4e/78af4e0bfe102b2b8b3c07e2ec373287.jpg",
     "category": "Nature"
   },
   {
-    "id": "3",
+    "id": "25",
     "title": "Ocean Waves",
     "image_url": "https://i.pinimg.com/1200x/7e/7a/28/7e7a28ff9f162c9d6672705fc1225df0.jpg",
     "category": "Nature"
   },
   {
-    "id": "4",
+    "id": "26",
     "title": "Sunset Valley",
     "image_url": "https://i.pinimg.com/736x/c1/b8/84/c1b8846e802048cf952bae405a557a1a.jpg",
     "category": "Nature"
   },
   {
-    "id": "5",
+    "id": "27",
     "title": "Autumn Trees",
     "image_url": "https://i.pinimg.com/1200x/90/ed/25/90ed25094f66eff957686034778bfb64.jpg",
     "category": "Nature"
   },
   {
-    "id": "6",
+    "id": "28",
     "title": "Mountain Peak",
     "image_url": "https://i.pinimg.com/1200x/69/81/c2/6981c251f5c5b623f800b011553762e3.jpg",
     "category": "Nature"
   },
   {
-    "id": "7",
+    "id": "29",
     "title": "River Stream",
     "image_url": "https://i.pinimg.com/736x/99/d1/4d/99d14d7a4c5affc39c859111b44c4e86.jpg",
     "category": "Nature"
   },
   {
-    "id": "8",
+    "id": "30",
     "title": "Forest Canopy",
     "image_url": "https://i.pinimg.com/736x/9a/81/47/9a8147e8cfe62ef4784107eb78d52c00.jpg",
     "category": "Nature"
   },
   {
-    "id": "9",
+    "id": "31",
     "title": "Mountain Lake",
     "image_url": "https://i.pinimg.com/1200x/dd/0e/6f/dd0e6fe662b4b680e7de63d8fe5422b8.jpg",
     "category": "Nature"
   },
   {
-    "id": "10",
+    "id": "32",
     "title": "Desert Dunes",
     "image_url": "https://i.pinimg.com/736x/6f/d6/d5/6fd6d58b80852045775935acccb646c3.jpg",
     "category": "Nature"
   },
   {
-    "id": "11",
+    "id": "33",
     "title": "Waterfall",
     "image_url": "https://i.pinimg.com/736x/05/da/85/05da85aa3c50ed6ce4c8967753c25d0f.jpg",
     "category": "Nature"
   },
   {
-    "id": "12",
+    "id": "34",
     "title": "Meadow Flowers",
     "image_url": "https://i.pinimg.com/736x/12/9b/67/129b67b6ea4a92906a191477f94922eb.jpg",
     "category": "Nature"
   },
   {
-    "id": "13",
+    "id": "35",
     "title": "Snowy Mountains",
     "image_url": "https://i.pinimg.com/1200x/2d/33/24/2d332406197d20278a6add33a10c7507.jpg",
     "category": "Nature"
   },
   {
-    "id": "14",
+    "id": "36",
     "title": "Tropical Beach",
     "image_url": "https://i.pinimg.com/1200x/8d/b4/27/8db427ce05d8c76d706e588f0768c4a4.jpg",
     "category": "Nature"
   },
   {
-    "id": "15",
+    "id": "37",
     "title": "Forest Clearing",
     "image_url": "https://i.pinimg.com/736x/c5/36/04/c53604cdbaa56fc557e85b4a8a077a41.jpg",
     "category": "Nature"
   },
   {
-    "id": "16",
+    "id": "38",
     "title": "Mountain Range",
     "image_url": "https://i.pinimg.com/1200x/72/9f/e7/729fe7ee0e23b2893bf639153bf8e887.jpg",
     "category": "Nature"
   },
   {
-    "id": "17",
+    "id": "39",
     "title": "Lakeside View",
     "image_url": "https://i.pinimg.com/736x/55/dc/db/55dcdb00574dd77c324182e13936d723.jpg",
     "category": "Nature"
   },
   {
-    "id": "18",
+    "id": "40",
     "title": "Forest Trail",
     "image_url": "https://i.pinimg.com/736x/de/c4/99/dec4999dfec38e6fb1448bddccc14f3b.jpg",
     "category": "Nature"
   },
   {
-    "id": "19",
+    "id": "41",
     "title": "Mountain Vista",
     "image_url": "https://i.pinimg.com/1200x/d0/0e/13/d00e13531763a7ec9c49796b4a0e9c43.jpg",
     "category": "Nature"
   },
   {
-    "id": "20",
+    "id": "42",
     "title": "Spring Meadow",
     "image_url": "https://i.pinimg.com/736x/f4/32/1b/f4321bfd259afa498b8f964112a3219e.jpg",
     "category": "Nature"
   },
   {
-    "id": "21",
+    "id": "43",
     "title": "Coastal Cliffs",
     "image_url": "https://i.pinimg.com/1200x/97/32/9c/97329c659c435551ec3757c9e2fe11f1.jpg",
     "category": "Nature"
   },
   {
-    "id": "22",
+    "id": "44",
     "title": "Mountain Forest",
     "image_url": "https://i.pinimg.com/736x/c9/a9/97/c9a997abbdce3406735dde6dbb60bb3a.jpg",
     "category": "Nature"
   },
   {
-    "id": "23",
+    "id": "45",
     "title": "Valley View",
     "image_url": "https://i.pinimg.com/736x/93/9c/f0/939cf09a80708b7141db97e66681373c.jpg",
     "category": "Nature"
   },
   {
-    "id": "24",
+    "id": "46",
     "title": "Forest Stream",
     "image_url": "https://i.pinimg.com/736x/ff/6a/00/ff6a007f107c3cbbc740ebf4f08b1f3d.jpg",
     "category": "Nature"
   },
   {
-    "id": "25",
+    "id": "47",
     "title": "Mountain Lake Reflection",
     "image_url": "https://i.pinimg.com/1200x/bc/7e/74/bc7e7437ea4d01c7f0e0a38b4b30d1b3.jpg",
     "category": "Nature"
   },
   {
-    "id": "26",
+    "id": "48",
     "title": "Forest Edge",
     "image_url": "https://i.pinimg.com/736x/92/a6/27/92a6274c75934b6038833ccf9b9aa3c9.jpg",
     "category": "Nature"
   },
   {
-    "id": "27",
+    "id": "49",
     "title": "Mountain Sunrise",
     "image_url": "https://i.pinimg.com/736x/d9/a0/0c/d9a00c2ef46c6e1ae9246d8cc733742b.jpg",
     "category": "Nature"
   },
   {
-    "id": "28",
+    "id": "50",
     "title": "Forest Path",
     "image_url": "https://i.pinimg.com/736x/e7/96/dd/e796ddd52fcafaacef1d2e959ec2977c.jpg",
     "category": "Nature"
   },
   {
-    "id": "29",
+    "id": "51",
     "title": "City Skyline",
     "image_url": "https://i.pinimg.com/1200x/a2/81/18/a2811892e94cf2ede0ed45d85e163062.jpg",
     "category": "Urban"
   },
   {
-    "id": "30",
+    "id": "52",
     "title": "Urban Street",
     "image_url": "https://i.pinimg.com/736x/70/c3/a4/70c3a4af73eb9df94fa40d30ae92bfb1.jpg",
     "category": "Urban"
   },
   {
-    "id": "31",
+    "id": "53",
     "title": "Modern Architecture",
     "image_url": "https://i.pinimg.com/1200x/d3/50/48/d3504800da3f57fdd3862d115dcd07e1.jpg",
     "category": "Urban"
   },
   {
-    "id": "32",
+    "id": "54",
     "title": "City Lights",
     "image_url": "https://i.pinimg.com/1200x/0e/5e/26/0e5e26125afd1cb4c46c7fa2c4597da6.jpg",
     "category": "Urban"
   },
   {
-    "id": "33",
+    "id": "55",
     "title": "Urban Bridge",
     "image_url": "https://i.pinimg.com/736x/86/7d/1a/867d1add4647e3a8d2dd7b561da58dbb.jpg",
     "category": "Urban"
   },
   {
-    "id": "34",
+    "id": "56",
     "title": "Cityscape",
     "image_url": "https://i.pinimg.com/736x/f3/c5/bf/f3c5bffc3eace4967ec346c59482659e.jpg",
     "category": "Urban"
   },
   {
-    "id": "35",
+    "id": "57",
     "title": "Metropolitan View",
     "image_url": "https://i.pinimg.com/736x/07/c9/c4/07c9c42d26e94725d3b4dc6c62b91686.jpg",
     "category": "Urban"
   },
   {
-    "id": "36",
+    "id": "58",
     "title": "Urban Night",
     "image_url": "https://i.pinimg.com/1200x/1c/02/55/1c0255b85f47588dcc382b253e73e8a7.jpg",
     "category": "Urban"
   },
   {
-    "id": "37",
+    "id": "59",
     "title": "City Center",
     "image_url": "https://i.pinimg.com/1200x/cb/06/86/cb068670c8a382d95bb5a83b0023525f.jpg",
     "category": "Urban"
   },
   {
-    "id": "38",
+    "id": "60",
     "title": "Urban Alley",
     "image_url": "https://i.pinimg.com/736x/dd/8a/38/dd8a3897554e783ced6e3d6c35848061.jpg",
     "category": "Urban"
   },
   {
-    "id": "39",
+    "id": "61",
     "title": "City Square",
     "image_url": "https://i.pinimg.com/736x/30/52/d3/3052d3caa1fc970b85941bc3fdca948e.jpg",
     "category": "Urban"
   },
   {
-    "id": "40",
+    "id": "62",
     "title": "Urban Landscape",
     "image_url": "https://i.pinimg.com/1200x/87/1c/6c/871c6c510d226443c8da8ef40728941c.jpg",
     "category": "Urban"
   },
   {
-    "id": "41",
+    "id": "63",
     "title": "City District",
     "image_url": "https://i.pinimg.com/1200x/a5/9a/2d/a59a2d7341995e943ea455b68a3b8cdc.jpg",
     "category": "Urban"
   },
   {
-    "id": "42",
+    "id": "64",
     "title": "Urban Horizon",
     "image_url": "https://i.pinimg.com/1200x/c1/0e/1b/c10e1bb957a3379dbfc18f2c6b42799b.jpg",
     "category": "Urban"
   },
   {
-    "id": "43",
+    "id": "65",
     "title": "Metropolitan Skyline",
     "image_url": "https://i.pinimg.com/1200x/2e/81/58/2e8158a406943c23ce9db9f2945bdcc7.jpg",
     "category": "Urban"
+  },
+  {
+    "id": "66",
+    "title": "AI Design 1",
+    "image_url": "https://i.pinimg.com/736x/53/38/a4/5338a465679ba82a49a9cd896ca162bd.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "67",
+    "title": "AI Design 2",
+    "image_url": "https://i.pinimg.com/1200x/d9/f5/8d/d9f58d16c8c1d5b76ca7d3ab66b6578d.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "68",
+    "title": "AI Design 3",
+    "image_url": "https://i.pinimg.com/1200x/88/76/75/88767515ba081e2ba3186ffa0d5340c0.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "69",
+    "title": "AI Design 4",
+    "image_url": "https://i.pinimg.com/736x/da/56/26/da562626d5d38614a2e5df84e57043bc.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "70",
+    "title": "AI Design 5",
+    "image_url": "https://i.pinimg.com/736x/91/2f/b2/912fb2d8aa248de6f57489aac32b7dff.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "71",
+    "title": "AI Design 6",
+    "image_url": "https://i.pinimg.com/736x/6e/92/28/6e9228497f43ef2279e2fadff217c4d2.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "72",
+    "title": "AI Design 7",
+    "image_url": "https://i.pinimg.com/736x/a9/10/d9/a910d9b0e989ef664b8f8f101b5c0946.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "73",
+    "title": "AI Design 8",
+    "image_url": "https://i.pinimg.com/736x/ea/82/07/ea8207dd46e7482a57cf41cde90eaa3e.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "74",
+    "title": "AI Design 9",
+    "image_url": "https://i.pinimg.com/736x/87/f3/f9/87f3f9b88257d03307b4be69b262ea12.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "75",
+    "title": "AI Design 10",
+    "image_url": "https://i.pinimg.com/736x/40/37/d5/4037d537c01bac75842dd676d313142a.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "76",
+    "title": "AI Design 11",
+    "image_url": "https://i.pinimg.com/1200x/2c/ad/cc/2cadcca86c73dd9305897e1e58cfe6ee.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "77",
+    "title": "AI Design 12",
+    "image_url": "https://i.pinimg.com/736x/7d/e3/df/7de3df6f1f5e270efa0cedd1eaed58e2.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "78",
+    "title": "AI Design 13",
+    "image_url": "https://i.pinimg.com/736x/64/52/c7/6452c7e6a5ee9334462c7eff537aeae9.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "79",
+    "title": "AI Design 14",
+    "image_url": "https://i.pinimg.com/1200x/9d/e0/2d/9de02dd62431f4091bb31fb1d31072f0.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "80",
+    "title": "AI Design 15",
+    "image_url": "https://i.pinimg.com/736x/ba/3f/8f/ba3f8f89d82dee061be48ea005392566.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "81",
+    "title": "AI Design 16",
+    "image_url": "https://i.pinimg.com/736x/c0/85/5b/c0855beaac5c595d82b7bc5511444e06.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "82",
+    "title": "AI Design 17",
+    "image_url": "https://i.pinimg.com/736x/44/2e/28/442e28a3892c301748a9e907c2a34759.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "83",
+    "title": "AI Design 18",
+    "image_url": "https://i.pinimg.com/736x/a0/19/de/a019deabdb2b9791ecab19ca9f4f81ba.jpg",
+    "category": "Ai"
+  },
+  {
+    "id": "84",
+    "title": "AI Design 19",
+    "image_url": "https://i.pinimg.com/736x/6d/d2/87/6dd287d183d44cec03d210fbe0a0fd72.jpg",
+    "category": "Ai"
   }
 ]
