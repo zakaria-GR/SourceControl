@@ -610,5 +610,173 @@
     "title": "Cinematic Design 18",
     "image_url": "https://i.pinimg.com/736x/0a/65/3d/0a653d0a40275ef21548ddab1c4333fd.jpg",
     "category": "Cinematic"
+  },
+  {
+    "id": "103",
+    "title": "Artistic Design 1",
+    "image_url": "https://i.pinimg.com/736x/da/01/75/da0175518becf8e7fd49a9347e36385c.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "104",
+    "title": "Artistic Design 2",
+    "image_url": "https://i.pinimg.com/736x/89/d5/4d/89d54d0160e465581371135d92456ec6.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "105",
+    "title": "Artistic Design 3",
+    "image_url": "https://i.pinimg.com/1200x/c6/9d/3b/c69d3b0db6d929389bb89c7d8dd6be95.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "106",
+    "title": "Artistic Design 4",
+    "image_url": "https://i.pinimg.com/736x/07/1c/f1/071cf11a7f7e7a3d65b4068e02460f1f.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "107",
+    "title": "Artistic Design 5",
+    "image_url": "https://i.pinimg.com/736x/aa/2d/9e/aa2d9eef4d75cc974684b5b4a6687de0.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "108",
+    "title": "Artistic Design 6",
+    "image_url": "https://i.pinimg.com/736x/d8/ed/29/d8ed299bb4d759bfb3644b94c4f51cbf.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "109",
+    "title": "Artistic Design 7",
+    "image_url": "https://i.pinimg.com/736x/1c/46/8a/1c468a1d726a570ca316f10eed2aab1c.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "110",
+    "title": "Artistic Design 8",
+    "image_url": "https://i.pinimg.com/736x/d4/2c/f4/d42cf4c0cc8f7c6bc2dba53968249888.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "111",
+    "title": "Artistic Design 9",
+    "image_url": "https://i.pinimg.com/736x/65/33/35/653335b98154d8ce727ce2dbec41b398.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "112",
+    "title": "Artistic Design 10",
+    "image_url": "https://i.pinimg.com/1200x/ce/a2/21/cea221b4194782fcd3dbfad01933a937.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "113",
+    "title": "Artistic Design 11",
+    "image_url": "https://i.pinimg.com/736x/9f/e3/5f/9fe35f2900425daa5eaa2dcbe93b7576.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "114",
+    "title": "Artistic Design 12",
+    "image_url": "https://i.pinimg.com/736x/34/a0/a1/34a0a1bedf7e7fcc7025384172560647.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "115",
+    "title": "Artistic Design 13",
+    "image_url": "https://i.pinimg.com/1200x/71/31/73/7131739cb80ce6cdc0f07266087897ab.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "116",
+    "title": "Artistic Design 14",
+    "image_url": "https://i.pinimg.com/1200x/00/23/99/002399587e0c91c8fbe4500e9119e700.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "117",
+    "title": "Artistic Design 15",
+    "image_url": "https://i.pinimg.com/1200x/ae/cc/f8/aeccf8272e35bf1c604b65f424fc4ce6.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "118",
+    "title": "Artistic Design 16",
+    "image_url": "https://i.pinimg.com/736x/be/8b/46/be8b46bb8ad2010b18dcc7e5f5b1c662.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "119",
+    "title": "Artistic Design 17",
+    "image_url": "https://i.pinimg.com/736x/48/15/a9/4815a988cf83e0eb4c6f2d8208277fc6.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "120",
+    "title": "Artistic Design 18",
+    "image_url": "https://i.pinimg.com/736x/de/45/10/de451054cb57d178d9b8f3ec32c03338.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "121",
+    "title": "Artistic Design 19",
+    "image_url": "https://i.pinimg.com/736x/05/a6/dd/05a6dd50dd9c115a66208045606ac469.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "122",
+    "title": "Artistic Design 20",
+    "image_url": "https://i.pinimg.com/736x/4e/f9/10/4ef910d693131516c791a2d9a62dbbb6.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "123",
+    "title": "Artistic Design 21",
+    "image_url": "https://i.pinimg.com/736x/8e/00/2d/8e002d04c0d43b8a69cc2fd29523d73d.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "124",
+    "title": "Artistic Design 22",
+    "image_url": "https://i.pinimg.com/736x/54/39/e5/5439e57187ce34b6fb140039bc690492.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "125",
+    "title": "Artistic Design 23",
+    "image_url": "https://i.pinimg.com/736x/cc/46/8d/cc468da959ee7f91a4b665011e1ad807.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "126",
+    "title": "Artistic Design 24",
+    "image_url": "https://i.pinimg.com/736x/63/e9/b7/63e9b79276b894b5fcbf81b2946a63c1.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "127",
+    "title": "Artistic Design 25",
+    "image_url": "https://i.pinimg.com/1200x/da/8d/02/da8d028406a6f5eb770fcc0d15a6aa71.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "128",
+    "title": "Artistic Design 26",
+    "image_url": "https://i.pinimg.com/736x/41/6e/57/416e5703366bc57a938e3e9ab76125cd.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "129",
+    "title": "Artistic Design 27",
+    "image_url": "https://i.pinimg.com/736x/0c/7f/75/0c7f75146b360e8cbec0ff042e2e99b6.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "130",
+    "title": "Artistic Design 28",
+    "image_url": "https://i.pinimg.com/736x/34/8e/db/348edb843f3e72bd3aac487676ded06e.jpg",
+    "category": "Artistic"
   }
 ]
