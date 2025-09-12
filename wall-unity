@@ -3,7 +3,7 @@
         "interstitial": "Interstitial_iOS"
     },
     "interstitialSettings": {
-        "clickThreshold": 50000
+        "clickThreshold": 9000
     },
     "gameIds": {
         "production": "5939668"
