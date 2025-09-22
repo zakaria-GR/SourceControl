@@ -1,7 +1,7 @@
 {
     "adUnitIDs": {
         "interstitial": "Interstitial_iOS",
-        "rewarded": "Rewarded_iOS"
+        "rewarded": ""
     },
     "interstitialSettings": {
         "clickThreshold": 9000
