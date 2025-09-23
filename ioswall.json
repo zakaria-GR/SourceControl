@@ -1,22 +1,5 @@
 [
-  {
-    "id": "1",
-    "title": "pink car 2",
-    "image_url": "https://i.pinimg.com/736x/ac/f9/96/acf996966446ef708ce7ca0edb135e32.jpg",
-    "category": "Cars"
-  },
-  {
-    "id": "1",
-    "title": "pink car 2",
-    "image_url": "https://i.pinimg.com/736x/c8/47/a6/c847a674a75442418d64455fc09b6a71.jpg",
-    "category": "Cars"
-  },
-  {
-    "id": "1",
-    "title": "pink car",
-    "image_url": "https://i.pinimg.com/736x/93/e0/21/93e021a71cb7a4b971713ccbb77bdb97.jpg",
-    "category": "Aesthetic"
-  },
+
   {
     "id": "1",
     "title": "Aesthetic Design 1",
