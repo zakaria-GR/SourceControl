@@ -4,7 +4,7 @@
         "rewarded": "Rewarded_iOS"
     },
     "interstitialSettings": {
-        "clickThreshold": 9000
+        "clickThreshold": 7
     },
     "gameIds": {
         "production": "5939668"
