@@ -1,6 +1,24 @@
 [
    {
     "id": "1",
+    "title": "ai wall",
+    "image_url": "https://i.pinimg.com/1200x/11/96/71/119671b1e39eab980a0105ec527c28af.jpg",
+    "category": "Ai"
+  },
+   {
+    "id": "1",
+    "title": "ai wall",
+    "image_url": "https://i.pinimg.com/1200x/4a/d0/73/4ad07345de3b1948fa52ec3aafd63808.jpg",
+    "category": "Ai"
+  },
+   {
+    "id": "1",
+    "title": "ai wall",
+    "image_url": "https://i.pinimg.com/1200x/05/29/e8/0529e8e91e8bc8dfb758caae621b6e0d.jpg",
+    "category": "Ai"
+  },
+   {
+    "id": "1",
     "title": "Space",
     "image_url": "https://i.pinimg.com/1200x/ab/c7/fc/abc7fc660f2d46b3f4b56e22c6f0ac2e.jpg",
     "category": "Space"
