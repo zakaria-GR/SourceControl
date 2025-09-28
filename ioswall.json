@@ -1,6 +1,24 @@
 [
    {
     "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/b7/cc/77/b7cc775d175edcd09ac42a4f983cc32d.jpg",
+    "category": "Urban"
+  },
+   {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/9f/da/23/9fda23ffd7e56b111eab7cd0053330df.jpg",
+    "category": "Urban"
+  },
+   {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/0d/00/07/0d00074eb21c8cb696e659822fa6d108.jpg",
+    "category": "Urban"
+  },
+   {
+    "id": "1",
     "title": "ai wall",
     "image_url": "https://i.pinimg.com/1200x/11/96/71/119671b1e39eab980a0105ec527c28af.jpg",
     "category": "Ai"
