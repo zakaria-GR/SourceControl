@@ -1,4 +1,22 @@
-[  
+[ 
+   {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/5e/39/72/5e39727823c9d733776c76b70fdeb658.jpg",
+    "category": "Urban"
+  },
+    {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/98/43/98/98439890f3e6f264f1cd6ad58b246e43.jpg",
+    "category": "Urban"
+  },
+    {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/4d/6a/76/4d6a7648a5faada6fd03a9dc11a5e8fb.jpg",
+    "category": "Urban"
+  },
    {
     "id": "1",
     "title": "Aesthetic",
