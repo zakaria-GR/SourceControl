@@ -1,4 +1,22 @@
-[ 
+[
+   {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/9e/e2/e9/9ee2e9bda9cb55e951b6fac23adfa614.jpg",
+    "category": "Urban"
+  },
+   {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/98/15/38/9815383eae59c8833f9124a9779050dd.jpg",
+    "category": "Urban"
+  },
+   {
+    "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/f0/dd/08/f0dd08dea55ccde47c358bff8473fe8b.jpg",
+    "category": "Urban"
+  },
    {
     "id": "1",
     "title": "Urban",
