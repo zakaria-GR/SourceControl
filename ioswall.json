@@ -1,4 +1,22 @@
-[
+[  
+    {
+    "id": "1",
+    "title": "Nature",
+    "image_url": "https://i.pinimg.com/1200x/d4/b7/58/d4b758fe43d26fa7154d445fb6e0f5fe.jpg",
+    "category": "Nature"
+  },
+    {
+    "id": "1",
+    "title": "Nature",
+    "image_url": "https://i.pinimg.com/1200x/9e/a3/28/9ea3286987a22398b77189ae282dd2b2.jpg",
+    "category": "Nature"
+  },
+   {
+    "id": "1",
+    "title": "Nature",
+    "image_url": "https://i.pinimg.com/1200x/ee/e3/ec/eee3ec6efd89ff8d2769122febf8d3da.jpg",
+    "category": "Nature"
+  },
    {
     "id": "1",
     "title": "Urban",
