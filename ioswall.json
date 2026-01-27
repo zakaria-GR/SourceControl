@@ -1,6 +1,127 @@
 [
   {
     "id": "1",
+    "title": "Chill",
+    "image_url": "https://i.pinimg.com/1200x/ce/fa/22/cefa22d247463226a5c58cb7ae0ffe62.jpg",
+    "category": "Chill"
+  },
+  {
+    "id": "2",
+    "title": "Chill",
+    "image_url": "https://i.pinimg.com/1200x/69/f5/b5/69f5b5618c3d763ceb96e189e2f0a2c1.jpg",
+    "category": "Chill"
+  },
+  {
+    "id": "3",
+    "title": "Chill",
+    "image_url": "https://i.pinimg.com/1200x/d1/53/b5/d153b5f68ec849a3ca6034f5c1190c8a.jpg",
+    "category": "Chill"
+  },
+  {
+    "id": "4",
+    "title": "Chill",
+    "image_url": "https://i.pinimg.com/1200x/4f/5e/1b/4f5e1b27cd27ed4766652a9517558368.jpg",
+    "category": "Chill"
+  },
+  {
+    "id": "5",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/61/8f/81/618f818d4bdc7f7c4e6724ab6d39cf8b.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "6",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/14/1a/b8/141ab80ed4a14f4f76bbf042befd50fb.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "7",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/cc/11/50/cc1150bd2048a780688ad6366faacf12.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "8",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/58/6b/e1/586be1e3fdbf2d3124592ca5071faa1c.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "9",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/54/07/16/5407163c4ad7b278a5dfc71d5d6c3e7d.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "10",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/a2/e7/1f/a2e71f27991f186601c5985f65943d17.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "11",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/98/7c/b5/987cb5d46ac4efafdaeb7b82df621d81.jpg",
+    "category": "Aesthetic"
+  },
+  {
+    "id": "12",
+    "title": "Aesthetic",
+    "image_url": "https://i.pinimg.com/1200x/bc/3c/da/bc3cdad6137c4341cd24d3111fc3b8b6.jpg",
+    "category": "Aesthetic"
+  },
+
+  {
+    "id": "13",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/0f/5a/04/0f5a043688e6b17abdbab485e234cd5f.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "14",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/a2/5e/8a/a25e8af1c53c0d50814a612b09d35902.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "15",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/39/8e/0f/398e0f1b23cb5206333ad734e49738f8.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "16",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/d8/aa/b9/d8aab94331d77cd74b23afb2fd3f6780.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "17",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/d5/06/fd/d506fdf25a69c00dcf80a198049427af.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "18",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/c5/a3/5c/c5a35ca62310f963cd0f7649937a0bd8.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "19",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/79/66/fd/7966fd70c891a9d00319ddf4800e80c6.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "20",
+    "title": "Cinematic",
+    "image_url": "https://i.pinimg.com/1200x/8c/1e/96/8c1e967c37af77f1b9601fba00d417b5.jpg",
+    "category": "Cinematic"
+  },
+  {
+    "id": "1",
     "title": "Cute",
     "image_url": "https://i.pinimg.com/1200x/47/e0/14/47e0147811060dbe280c2c6a0edac316.jpg",
     "category": "Cute"
