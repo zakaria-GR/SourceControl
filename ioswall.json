@@ -1,6 +1,78 @@
 [
   {
     "id": "1",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/b7/0c/ca/b70cca203dd2a2e40dd94cce05a7a189.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "2",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/f9/09/1b/f9091b8f0f7bcbe1e3e4d92725c27981.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "3",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/68/de/7f/68de7fd61ce60b7795abc4cdacd73b5f.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "4",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/9d/ad/3a/9dad3a4580327b127785de9948a9d9a4.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "5",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/24/4c/40/244c409cdfa8a5b22a96e655ab902438.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "6",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/3a/1c/b9/3a1cb97f5a50509e04e2575644d79770.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "7",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/f6/85/0c/f6850c05da9b1c87318c8890b6cd573f.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "8",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/7f/74/d0/7f74d029821a083407fa12d4c7e48cdc.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "9",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/8f/2b/5c/8f2b5cafa08c590ba905fefb4be2235c.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "10",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/a7/d5/66/a7d566cf9f292eb505fa2cbed36d1f2f.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "11",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/c7/04/a4/c704a417ef3cbb1d6c6531d74f3b9c1d.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "12",
+    "title": "Artistic",
+    "image_url": "https://i.pinimg.com/1200x/91/df/4a/91df4aedc1a09165578f741dcbf63137.jpg",
+    "category": "Artistic"
+  },
+  {
+    "id": "1",
     "title": "Chill",
     "image_url": "https://i.pinimg.com/1200x/ce/fa/22/cefa22d247463226a5c58cb7ae0ffe62.jpg",
     "category": "Chill"
