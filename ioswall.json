@@ -1,6 +1,27 @@
 [
   {
     "id": "1",
+    "name_category": "Random",
+    "title": "Random",
+    "image": "https://i.pinimg.com/1200x/cf/d4/df/cfd4dfc6b6b1344235e74b5dcfce8fcc.jpg",
+    "lock": false
+  },
+  {
+    "id": "2",
+    "name_category": "Random",
+    "title": "Random",
+    "image": "https://i.pinimg.com/1200x/41/92/e6/4192e6a2c593fc68a23f4255533296b8.jpg",
+    "lock": false
+  },
+  {
+    "id": "3",
+    "name_category": "Random",
+    "title": "Random",
+    "image": "https://i.pinimg.com/1200x/07/a9/81/07a98125b0e2a45f8724b75cb3401d6d.jpg",
+    "lock": false
+  },
+  {
+    "id": "1",
     "title": "Chill",
     "image_url": "https://i.pinimg.com/1200x/6d/fc/97/6dfc97a37553b33d96733efaa173216b.jpg",
     "category": "Chill"
