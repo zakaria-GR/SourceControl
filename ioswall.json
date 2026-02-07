@@ -1,6 +1,54 @@
 [
   {
     "id": "1",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/a5/5a/21/a55a21b4504921974c7040010457bee6.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "2",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/b5/58/ef/b558ef4caae9744b02e4ce8a7918f45e.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "3",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/b1/4a/85/b14a85e6ef30b5996297e1816ed511c6.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "4",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/24/f9/79/24f979e5b4884bebe3b0f4306b8ab74c.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "5",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/59/1c/07/591c07c35f77e05d22ab47aa8ebc51da.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "6",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/a7/54/2d/a7542dd9b82f48861372345c8a4d5cef.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "7",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/bf/be/fa/bfbefaeafb4ef865a256706f08303eff.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "8",
+    "title": "Urban",
+    "image_url": "https://i.pinimg.com/1200x/80/7a/bf/807abf9814e4d3364d2773d62170c0c0.jpg",
+    "category": "Urban"
+  },
+  {
+    "id": "1",
     "title": "Random",
     "image_url": "https://i.pinimg.com/1200x/cf/d4/df/cfd4dfc6b6b1344235e74b5dcfce8fcc.jpg",
     "category": "Random"
